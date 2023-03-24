@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Eric Pinheiro :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Eric Pinheiro :wave:
